@@ -7,4 +7,5 @@ print "Your first varible is:",first
 print "Your second variable is:",second
 print "Your third variable is:",third
 
-age = raw_input("How old are you?")
+x=raw_input('?' ) 
+
